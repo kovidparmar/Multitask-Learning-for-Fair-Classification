@@ -39,7 +39,6 @@ This project investigates whether:
 * fairness constraints can reduce group disparity,
 * and predicted sensitive attributes can support fairness-aware learning without directly using protected information at inference time.
 
-The implementation reproduces the core ideas of the original paper in a simplified, research-friendly setting.
 
 ---
 
@@ -415,10 +414,4 @@ Potential future improvements:
 * Additional fairness datasets
 * Calibration-aware fairness methods
 
----
 
-# Acknowledgements
-
-This project was developed as a research-oriented implementation for educational and experimental purposes.
-
-The implementation was inspired by the original fairness-aware multitask learning paper and built using open-source Python ML tools.
