@@ -1,0 +1,12 @@
+{
+  "n_rows": 45222,
+  "n_cols": 15,
+  "class_distribution": {
+    "<=50K": 34014,
+    ">50K": 11208
+  },
+  "gender_distribution": {
+    "Male": 30527,
+    "Female": 14695
+  }
+}
