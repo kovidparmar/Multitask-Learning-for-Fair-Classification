@@ -406,8 +406,6 @@ Run notebooks sequentially:
 
 Potential future improvements:
 
-* Equalized Odds fairness
-* Demographic Parity constraints
 * Deep multitask learning architectures
 * Multiple sensitive attributes
 * Neural fairness-aware optimization
